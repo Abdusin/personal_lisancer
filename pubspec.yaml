@@ -1,7 +1,7 @@
 name: personal_lisancer
 description: Automatically create your lisance text for every file
 version: 0.0.1
-repository: "https://github.com/fluttercommunity/import_sorter"
+repository: "https://github.com/Abdusin/personal_lisancer"
 author: Abdus Inanc <abdusinanc@gmail.com> 
 
 environment:
